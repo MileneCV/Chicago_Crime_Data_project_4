@@ -1,4 +1,4 @@
 # Chicago_Crime_Data_project_4
+<img width="573" alt="image" src="https://user-images.githubusercontent.com/112773242/219900546-511e3d1a-6fd0-4e72-b807-2062ac3bdf25.png">
 
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/112773242/219558244-7f1f4703-7fa4-4bab-9edd-bce64bd4f6be.png">
-https://public.tableau.com/shared/M4R7PN73S?:display_count=n&:origin=viz_share_link
+https://public.tableau.com/shared/DD39K5JHS?:display_count=n&:origin=viz_share_link
