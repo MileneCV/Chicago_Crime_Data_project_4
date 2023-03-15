@@ -2,13 +2,12 @@
 
 Author: Milene Carmes Vallejo
 
-<<<<<<< HEAD
-![Chicago_Crime_Data_project_4](Chicago_Skyline_-_Illustration.jpg)
-=======
+
+
 <img width="585" alt="image" src="https://user-images.githubusercontent.com/112773242/225435506-01417cd3-a1fc-4207-a90e-f0e1812824e9.png">
 
 image from: https://www.flickr.com/photos/195041916@N08/51903154236/
->>>>>>> 63d5a8c30c0950951ab3c642f9823feff799bb14
+
 
 
 ## Data:
@@ -26,22 +25,7 @@ Answer a series of questions about trends in crimes in Chicago for a reporter fo
  
 ## Methods: 
 
-<<<<<<< HEAD
-Processed and analyzed a dataset of crimes in Chicago from 2001 to 2023 including the type of crime, exact date/time, lat/long, District/ward, was there an arrest.
 
-Worked with time series in Python
-
-Exploratory data analysis utilizing Pandas, Matplotlib,  Seaborn.
-
-Created a dashboard and a story in Tableau.
-
- 
- 
- 
- 
- 
- 
-=======
 - Processed and analyzed a dataset of crimes in Chicago from 2001 to 2023 including the type of crime, exact date/time, lat/long, District/ward, was there an arrest.
 
 * Worked with time series in Python - preparing the Datetime Index, separate the full dataset by years and months
@@ -150,7 +134,7 @@ The most common type of crime is THEFT (21%)
 ##  Create a Tableau Dashboard
 https://public.tableau.com/app/profile/milene.carmes.vallejo7059/viz/Chicago_crime_Dashboard_core/MainDashboard_update?publish=yes
 
->>>>>>> 63d5a8c30c0950951ab3c642f9823feff799bb14
+
 <img width="573" alt="image" src="https://user-images.githubusercontent.com/112773242/219900546-511e3d1a-6fd0-4e72-b807-2062ac3bdf25.png">
 
 
