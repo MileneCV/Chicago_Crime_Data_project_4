@@ -30,7 +30,7 @@ Answer a series of questions about trends in crimes in Chicago for a reporter fo
 
 * Worked with time series in Python - preparing the Datetime Index, separate the full dataset by years and months
 
-+ Exploratory data analysis utilizing Pandas, Matplotlib,  Seaborn.
++ Performed exploratory data analysis using Pandas, Matplotlib,  Seaborn.
 
 - Created a dashboard and a story in Tableau.
 
